@@ -6,5 +6,5 @@ This time, there will be no next time.
 2. Run `npm install`.
 
 To test the app use:
-`react-native run-android` for Android
-`react-native run-ios` for iOS (Only on MacOS)
+- `react-native run-android` for Android
+- `react-native run-ios` for iOS (Only on MacOS)
